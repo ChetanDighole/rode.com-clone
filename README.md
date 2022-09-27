@@ -23,5 +23,14 @@ Made a [RØDE](https://rode.com/en) clone using [Tailwindcss](https://tailwindcs
 
 If you have any feedback, please reach out to me at [twitter](https://twitter.com/codewithchetan)
 ***
-
+***[Deployed Link](https://rode-clone-by-chetan-dighole.netlify.app/)***
+***
 ## Quick Look
+
+
+https://user-images.githubusercontent.com/113523391/192599723-f5c7113d-1db2-495c-9e03-9520e380269c.mp4
+
+
+
+https://user-images.githubusercontent.com/113523391/192599833-2543b507-4396-48f3-8753-063d624f66fd.mp4
+
