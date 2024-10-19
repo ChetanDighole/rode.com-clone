@@ -21,9 +21,9 @@ Made a [RØDE](https://rode.com/en) clone using [Tailwindcss](https://tailwindcs
 ***
 ## Feedback
 
-If you have any feedback, please reach out to me at [twitter](https://twitter.com/codewithchetan)
+If you have any feedback, please reach out to me at [twitter](https://twitter.com/ChetanDighole)
 ***
-***[Deployed Link](https://rode-clone-by-chetan-dighole.netlify.app/)***
+***[Deployed Link](https://musicwebsite1234.netlify.app/)***
 ***
 ## Quick Look
 
